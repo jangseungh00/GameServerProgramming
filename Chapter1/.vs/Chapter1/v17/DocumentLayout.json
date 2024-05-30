@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Chapter1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C02BF1C-3472-4B72-A995-F23AF448C305}|chapter1_prime_number_errorneous\\chapter1_prime_number_errorneous.vcxproj|C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Chapter1\\chapter1_prime_number_errorneous\\chapter1_prime_number_errorneous.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3C02BF1C-3472-4B72-A995-F23AF448C305}|chapter1_prime_number_errorneous\\chapter1_prime_number_errorneous.vcxproj|solutionrelative:chapter1_prime_number_errorneous\\chapter1_prime_number_errorneous.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128E705-CEEA-4F1A-A42E-59CCA0C532AA}|Chapter1\\Chapter1.vcxproj|C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Chapter1\\Chapter1\\Chapter1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6128E705-CEEA-4F1A-A42E-59CCA0C532AA}|Chapter1\\Chapter1.vcxproj|solutionrelative:Chapter1\\Chapter1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chapter1_prime_number_errorneous.cpp",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Chapter1\\chapter1_prime_number_errorneous\\chapter1_prime_number_errorneous.cpp",
+              "RelativeDocumentMoniker": "chapter1_prime_number_errorneous\\chapter1_prime_number_errorneous.cpp",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Chapter1\\chapter1_prime_number_errorneous\\chapter1_prime_number_errorneous.cpp",
+              "RelativeToolTip": "chapter1_prime_number_errorneous\\chapter1_prime_number_errorneous.cpp",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T05:11:15.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chapter1.cpp",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Chapter1\\Chapter1\\Chapter1.cpp",
+              "RelativeDocumentMoniker": "Chapter1\\Chapter1.cpp",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Chapter1\\Chapter1\\Chapter1.cpp",
+              "RelativeToolTip": "Chapter1\\Chapter1.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T04:51:36.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
