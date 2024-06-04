@@ -1,3 +1,0 @@
-﻿  Chapter1.cpp
-C:\Users\snse0\Documents\workspace\GameServerProgramming\Chapter1\Chapter1\Chapter1.cpp(37,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  Chapter1.vcxproj -> C:\Users\snse0\Documents\workspace\GameServerProgramming\Chapter1\x64\Debug\Chapter1.exe

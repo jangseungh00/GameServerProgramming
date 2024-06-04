@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C0EC0-57F0-4E88-8316-5A5B47594D47}|chapter1_prime_number_mutilthread\\chapter1_prime_number_mutilthread.vcxproj|C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\chapter1_prime_number_mutilthread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F9C0EC0-57F0-4E88-8316-5A5B47594D47}|chapter1_prime_number_mutilthread\\chapter1_prime_number_mutilthread.vcxproj|solutionrelative:Re_GamePrograming\\chapter1_prime_number_mutilthread.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snse0\\Documents\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_154857.CvTrace||{5FCCFCD6-6237-4D02-B1DC-B6321AF08CE5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DFF813E-1DEF-401C-AB9A-AA5F107037AA}|deadlock-example\\deadlock-example.vcxproj|C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\deadlock-example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3DFF813E-1DEF-401C-AB9A-AA5F107037AA}|deadlock-example\\deadlock-example.vcxproj|solutionrelative:Re_GamePrograming\\deadlock-example.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B29C25-1DFD-47FD-8752-A8FE22084952}|Re_GamePrograming\\Re_GamePrograming.vcxproj|C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\CriticalSection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53B29C25-1DFD-47FD-8752-A8FE22084952}|Re_GamePrograming\\Re_GamePrograming.vcxproj|solutionrelative:Re_GamePrograming\\CriticalSection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B29C25-1DFD-47FD-8752-A8FE22084952}|Re_GamePrograming\\Re_GamePrograming.vcxproj|C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53B29C25-1DFD-47FD-8752-A8FE22084952}|Re_GamePrograming\\Re_GamePrograming.vcxproj|solutionrelative:Re_GamePrograming\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B29C25-1DFD-47FD-8752-A8FE22084952}|Re_GamePrograming\\Re_GamePrograming.vcxproj|C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\chapter1_prime_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53B29C25-1DFD-47FD-8752-A8FE22084952}|Re_GamePrograming\\Re_GamePrograming.vcxproj|solutionrelative:Re_GamePrograming\\chapter1_prime_number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\snse0\\Documents\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_134954.CvTrace||{5FCCFCD6-6237-4D02-B1DC-B6321AF08CE5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "chapter1_prime_number_mutilthread_2024-06-04_154857.CvTrace",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_154857.CvTrace",
+              "RelativeDocumentMoniker": "..\\..\\..\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_154857.CvTrace",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_154857.CvTrace",
+              "RelativeToolTip": "..\\..\\..\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_154857.CvTrace",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T06:48:57.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chapter1_prime_number_mutilthread.cpp",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\chapter1_prime_number_mutilthread.cpp",
+              "RelativeDocumentMoniker": "Re_GamePrograming\\chapter1_prime_number_mutilthread.cpp",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\chapter1_prime_number_mutilthread.cpp",
+              "RelativeToolTip": "Re_GamePrograming\\chapter1_prime_number_mutilthread.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T06:47:47.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deadlock-example.cpp",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\deadlock-example.cpp",
+              "RelativeDocumentMoniker": "Re_GamePrograming\\deadlock-example.cpp",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\deadlock-example.cpp",
+              "RelativeToolTip": "Re_GamePrograming\\deadlock-example.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T04:53:17.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "chapter1_prime_number_mutilthread_2024-06-04_134954.CvTrace",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_134954.CvTrace",
+              "RelativeDocumentMoniker": "..\\..\\..\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_134954.CvTrace",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_134954.CvTrace",
+              "RelativeToolTip": "..\\..\\..\\Visual Studio 2022\\ConcurrencyVisualizer\\chapter1_prime_number_mutilthread_2024-06-04_134954.CvTrace",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-04T04:49:54.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "chapter1_prime_number.cpp",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\chapter1_prime_number.cpp",
+              "RelativeDocumentMoniker": "Re_GamePrograming\\chapter1_prime_number.cpp",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\chapter1_prime_number.cpp",
+              "RelativeToolTip": "Re_GamePrograming\\chapter1_prime_number.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-03T07:55:56.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\stdafx.h",
+              "RelativeDocumentMoniker": "Re_GamePrograming\\stdafx.h",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\stdafx.h",
+              "RelativeToolTip": "Re_GamePrograming\\stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T08:03:52.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CriticalSection.h",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\CriticalSection.h",
+              "RelativeDocumentMoniker": "Re_GamePrograming\\CriticalSection.h",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\GameServerProgramming\\Re_GamePrograming\\Re_GamePrograming\\CriticalSection.h",
+              "RelativeToolTip": "Re_GamePrograming\\CriticalSection.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-03T08:12:36.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

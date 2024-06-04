@@ -1,0 +1,10 @@
+﻿  chapter1_prime_number.cpp
+  chapter1_prime_number_mutilthread.cpp
+  CriticalSection.cpp
+  deadlock-example.cpp
+  stdafx.cpp
+  코드를 생성하고 있습니다...
+chapter1_prime_number_mutilthread.obj : error LNK2005: "bool __cdecl IsPrimeNumber(int)" (?IsPrimeNumber@@YA_NH@Z)이(가) chapter1_prime_number.obj에 이미 정의되어 있습니다.
+chapter1_prime_number_mutilthread.obj : error LNK2005: main이(가) chapter1_prime_number.obj에 이미 정의되어 있습니다.
+deadlock-example.obj : error LNK2005: main이(가) chapter1_prime_number.obj에 이미 정의되어 있습니다.
+C:\Users\snse0\Documents\workspace\GameServerProgramming\Re_GamePrograming\x64\Debug\Re_GamePrograming.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

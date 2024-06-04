@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.40.33811.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/snse0/documents/workspace/gameserverprogramming/re_gameprograming/re_gameprograming/criticalsection.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "8294fe2ce1ba9e414dd7f7132d34dcb388d79274e128e6b3bf9078df9dbdda8a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/snse0/documents/workspace/gameserverprogramming/re_gameprograming/re_gameprograming/stdafx.h"
+          },
+          "hashes": {
+            "sha-256": "d859c6a6f748c4def7b97ee622775ea56319300cfed1a95a0135be448cd3f1fd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/snse0/documents/workspace/gameserverprogramming/re_gameprograming/re_gameprograming/targetver.h"
+          },
+          "hashes": {
+            "sha-256": "45cbb095d1b856dc845c9d84cd07de34ea5c24447cc1d7b33840973985ebc5f6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/snse0/documents/workspace/gameserverprogramming/re_gameprograming/re_gameprograming/criticalsection.h"
+          },
+          "hashes": {
+            "sha-256": "be102332041ed1c1498c8fc5e9f9fe57805daa9e130498cb87174fdaa226412f"
+          }
+        }
+      ]
+    }
+  ]
+}
