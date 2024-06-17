@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snse0\\Documents\\workspace\\Firebase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1801B09-3361-1E6A-ED7C-DDF8CCAA691A}|Assembly-CSharp.csproj|c:\\users\\snse0\\documents\\workspace\\firebase\\assets\\script\\sha256_db_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1801B09-3361-1E6A-ED7C-DDF8CCAA691A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\sha256_db_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1801B09-3361-1E6A-ED7C-DDF8CCAA691A}|Assembly-CSharp.csproj|C:\\Users\\snse0\\Documents\\workspace\\Firebase\\assets\\script\\idb_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1801B09-3361-1E6A-ED7C-DDF8CCAA691A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\idb_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1801B09-3361-1E6A-ED7C-DDF8CCAA691A}|Assembly-CSharp.csproj|C:\\Users\\snse0\\Documents\\workspace\\Firebase\\assets\\script\\ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1801B09-3361-1E6A-ED7C-DDF8CCAA691A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDB_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\Firebase\\Assets\\Script\\IDB_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\IDB_Manager.cs",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\Firebase\\Assets\\Script\\IDB_Manager.cs",
+              "RelativeToolTip": "Assets\\Script\\IDB_Manager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:13:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SHA256_DB_Manager.cs",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\Firebase\\Assets\\Script\\SHA256_DB_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SHA256_DB_Manager.cs",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\Firebase\\Assets\\Script\\SHA256_DB_Manager.cs",
+              "RelativeToolTip": "Assets\\Script\\SHA256_DB_Manager.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAA/wDgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:06:22.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI_Login.cs",
+              "DocumentMoniker": "C:\\Users\\snse0\\Documents\\workspace\\Firebase\\Assets\\Script\\UI_Login.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UI_Login.cs",
+              "ToolTip": "C:\\Users\\snse0\\Documents\\workspace\\Firebase\\Assets\\Script\\UI_Login.cs",
+              "RelativeToolTip": "Assets\\Script\\UI_Login.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T00:06:08.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
